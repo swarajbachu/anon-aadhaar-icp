@@ -1,0 +1,7 @@
+{
+  "name": "backend",
+  "dependencies": {
+    "@zk-kit/groth16": "^0.4.0",
+    "azle": "^0.18.6"
+  }
+}

@@ -1,0 +1,7 @@
+service: () -> {
+    getAadharProof: (text) -> (opt record {pcd:record {protocol:text; pi_a:vec text; pi_b:vec vec text; pi_c:vec text; curve:text}; modulus:text}) query;
+    getMessage: () -> (text) query;
+    linkAadharToPCD: (text, record {pcd:record {protocol:text; pi_a:vec text; pi_b:vec vec text; pi_c:vec text; curve:text}; modulus:text}) -> (bool);
+    setMessage: (text) -> ();
+    verifyAadhar: (text, record {protocol:text; pi_a:vec text; pi_b:vec vec text; pi_c:vec text; curve:text}) -> (bool);
+}

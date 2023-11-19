@@ -1,0 +1,3 @@
+service : {
+    "main": (text,text) -> (bool);
+}
