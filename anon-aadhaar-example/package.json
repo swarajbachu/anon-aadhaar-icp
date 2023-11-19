@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
+    "@dfinity/agent": "^0.20.1",
+    "@dfinity/auth-client": "^0.20.1",
+    "@dfinity/candid": "^0.20.1",
+    "@dfinity/principal": "^0.20.1",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@headlessui/react": "^1.7.17",
