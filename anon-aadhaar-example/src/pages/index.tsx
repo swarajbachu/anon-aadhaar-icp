@@ -133,7 +133,7 @@ export default function Home({ setUserStatus }: HomeProps) {
       }
       console.log({ done }, "doneee")
     }
-    setLoading(true)
+    setLoading(false)
 
 
   }
