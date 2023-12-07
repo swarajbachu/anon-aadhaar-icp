@@ -14,7 +14,7 @@ export const TestFiles: FunctionComponent = () => {
         </div>
         <div className="ml-3 flex-1 md:flex md:justify-between">
           <p className="text-xs sm:text-sm text-blue-700">
-            If you don't possess an Aadhaar card but wish to test our SDK, you
+            If you don't possess an Government Id but wish to test our SDK, you
             can easily access the test files by following this link.
           </p>
           <p className="mt-3 text-xs sm:text-sm md:ml-6 md:mt-0">

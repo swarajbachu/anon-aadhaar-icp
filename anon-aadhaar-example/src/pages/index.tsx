@@ -168,7 +168,7 @@ export default function Home({ setUserStatus }: HomeProps) {
           KYC II
         </h1>
         <div className="text-sm sm:text-lg">
-          First Login Using Your II and then Link Your Aadhaar Card with it
+          First Login Using Your II and then Link Your Government Id with it
         </div>
 
         {/* Import the Connect Button component */}
